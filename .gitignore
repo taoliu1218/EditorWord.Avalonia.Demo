@@ -1,0 +1,129 @@
+# ===============================
+#   .NET Core / .NET 5+ / .NET 8
+# ===============================
+
+# Build results
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+[Tt]emp/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.rsuser
+
+# Visual Studio cache/options directory
+.vs/
+.vscode/
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# Avalonia designer cache
+.avalonia/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Visual Studio Code
+.history/
+.vscode-test/
+
+# NCrunch
+_nCrunch_*
+.*crunch*.local.xml
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# DotCover
+*.dotCover
+
+# NUnit
+*.VisualState.xml
+TestResult.xml
+TestResults/
+
+# Build logs
+*.log
+*.tlog
+
+# Publish output
+publish/
+out/
+
+# NuGet
+*.nupkg
+*.snupkg
+*.nuget.props
+*.nuget.targets
+packages/
+.nuget/
+
+# Other
+*.dbmdl
+*.bak
+*.backup
+*.Cache
+*.tmp
+*.temp
+*.pidb
+*.svclog
+*.scc
+
+# Entity Framework
+Migrations/
+
+# Azure
+*.azurePubxml
+*.PublishSettings
+*.pubxml
+*.pubxml.user
+
+# OS-specific
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+
+# JetBrains Rider / ReSharper cache
+.idea/
+*.sln.iml
+.sln.dotSettings.user
+
+# Git
+*.orig
+*.rej
+*.diff
+*.patch
+*.merge_file_*
+!.gitignore
+
+# ===============================
+#   Optional: Avalonia / Cross Platform Artifacts
+# ===============================
+*.icns
+*.ico
+*.dmg
+*.app
+*.exe
+*.pdb
+*.dll
+*.so
+*.dylib
